@@ -29,6 +29,11 @@
       "id": "guidance"
     },
     {
+      "href": "https://www.nice.org.uk/about/what-we-do/life-sciences",
+      "text": "Life sciences",
+      "id": "life-sciences"
+    },
+    {
       "href": "https://www.nice.org.uk/standards-and-indicators",
       "text": "Standards and indicators",
       "id": "standards"

@@ -64,7 +64,7 @@ a.link {
   color: $colour-nav-text;
   display: block;
   font-weight: normal;
-  padding: rem($nds-spacing-small $nds-spacing-medium);
+  padding: rem($nds-spacing-small);
   text-decoration: none;
 
   span {
@@ -132,7 +132,6 @@ a.link {
     justify-content: center;
     line-height: 1.25;
     margin: 0;
-    padding: rem($nds-spacing-small);
     position: relative;
     text-align: center;
 
